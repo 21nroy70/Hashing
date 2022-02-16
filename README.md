@@ -1,2 +1,2 @@
-# Hashing - involving Linked Lists and 
+# Hashing - involving Linked Lists and Nodes
 I hashed a 50 million word file using an algorithm that gives O(1) (constant) time to search, add, and rehash.
